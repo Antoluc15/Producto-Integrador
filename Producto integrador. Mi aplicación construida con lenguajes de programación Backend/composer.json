@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": "^7.4",
+        "monolog/monolog": "^2.0"
+        // Aquí puedes añadir otras dependencias necesarias para tu proyecto
+    }
+}
